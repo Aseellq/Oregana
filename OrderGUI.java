@@ -17,10 +17,7 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import makeyourownpizza.Main_Jframe;
 
-/**
- *
- * @author Layan
- */
+
 public class OrderGUI extends javax.swing.JFrame {
 
     DefaultTableModel model;
